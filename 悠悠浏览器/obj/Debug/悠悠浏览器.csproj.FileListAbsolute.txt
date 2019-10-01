@@ -1,0 +1,16 @@
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\bin\Debug\liebao.exe.config
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\bin\Debug\liebao.exe.manifest
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\bin\Debug\liebao.application
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\bin\Debug\liebao.exe
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\bin\Debug\liebao.pdb
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\bin\Debug\WebKit.Interop.dll
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\bin\Debug\WebKitBrowser.dll
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\obj\Debug\悠悠浏览器.聊天页面.resources
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\obj\Debug\悠悠浏览器.主页面.resources
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\obj\Debug\悠悠浏览器.Properties.Resources.resources
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\obj\Debug\悠悠浏览器.csproj.GenerateResource.Cache
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\obj\Debug\liebao.TrustInfo.xml
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\obj\Debug\liebao.exe.manifest
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\obj\Debug\liebao.application
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\obj\Debug\liebao.exe
+F:\SVN代码管理\悠悠浏览器\悠悠浏览器\obj\Debug\liebao.pdb
