@@ -1,9 +1,0 @@
-G:\Y2\asp.net\MvcTest20130404\Test\webkit\bin\Debug\webkit.exe.config
-G:\Y2\asp.net\MvcTest20130404\Test\webkit\bin\Debug\webkit.exe
-G:\Y2\asp.net\MvcTest20130404\Test\webkit\bin\Debug\webkit.pdb
-G:\Y2\asp.net\MvcTest20130404\Test\webkit\bin\Debug\WebKitBrowser.dll
-G:\Y2\asp.net\MvcTest20130404\Test\webkit\obj\Debug\webkit.Form1.resources
-G:\Y2\asp.net\MvcTest20130404\Test\webkit\obj\Debug\webkit.Properties.Resources.resources
-G:\Y2\asp.net\MvcTest20130404\Test\webkit\obj\Debug\webkit_net.csproj.GenerateResource.Cache
-G:\Y2\asp.net\MvcTest20130404\Test\webkit\obj\Debug\webkit.exe
-G:\Y2\asp.net\MvcTest20130404\Test\webkit\obj\Debug\webkit.pdb
